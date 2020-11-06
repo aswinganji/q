@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start,
+#number_of_objects {
+    font-size: 18px;
+}
+
+canvas {
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
+
+#text {
+    margin: 10px;
+    border-radius: 10px;
+}
